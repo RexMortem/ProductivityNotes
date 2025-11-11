@@ -21,7 +21,3 @@ The ideal outcome is that you reach your edge in the Misogi but then push past a
 ## Smartphone Usage
 
 Smartphones can become a soothing device and prevent you from really reflecting and thinking for yourself - you can eliminate negative emotion by using your phone to submerge yourself in notifications and distractions.
-
-## Testing SSH
-
-aa
