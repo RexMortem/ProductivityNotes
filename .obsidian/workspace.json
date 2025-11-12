@@ -25,12 +25,14 @@
             "id": "efa557bfda32c683",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Podcasts/HubermanLab/How to Grow From Doing Hard Things - Michael Easter.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "How to Grow From Doing Hard Things - Michael Easter"
             }
           }
         ],

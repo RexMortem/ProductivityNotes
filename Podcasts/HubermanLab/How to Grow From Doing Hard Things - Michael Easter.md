@@ -14,7 +14,7 @@ Tribes would have rites of passage (and seemingly these tribes created these ind
 The rite of passage would give them confidence and awareness of themselves - by knowing you completed the rite of passage, you know you can do hard things.
 
 There is a modern equivalent called **Misogi** which is a very hard challenge to be undertaken once a year with two rules:
-1) you should have a 50% chance of actually completing it
+1) it should be hard enough that there's a 50% chance of completing it
 2) it shouldn't kill you
 
 The ideal outcome is that you reach your edge in the Misogi but then push past and discover your new edge.
